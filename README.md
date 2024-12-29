@@ -23,7 +23,7 @@ I’m diving deep into **Artificial Intelligence (AI)** and **Machine Learning (
 
 ### 📫 How to Reach Me
 - **Email:** [webdevabdul@gmail.com](mailto:webdevabdul@gmail.com)
-- **LinkedIn:** [Click Me]([(https://www.linkedin.com/in/abdul-hanan-6b5b73248))
+- **LinkedIn:** [Click Me](https://www.linkedin.com/in/abdul-hanan-6b5b73248)
 
 ### 🌟 Fun Fact
 I believe that **design is not just how things look but how they work**—and that philosophy guides me in both coding and design.
