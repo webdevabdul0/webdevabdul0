@@ -1,4 +1,4 @@
-# Hi there, I'm Ahsan! 👋
+# Hi there, I'm Abdul Hanan! 👋
 
 ### 👩‍💻 About Me
 I’m a **Junior Full Stack Developer** and **UX/UI Designer** passionate about crafting seamless and intuitive web applications. With a knack for both frontend and backend development, I bridge design and functionality to create impactful digital experiences.
